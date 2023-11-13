@@ -3,6 +3,8 @@
 **Introduction**  
 ForestQuery is dedicated to addressing deforestation globally and raising awareness about its environmental impact. This report analyzes data obtained from the World Bank, including forest and land area by country from 1990 to 2016, along with country regions. The analysis identifies areas of concern and success stories.
 
+[Full written report including SQL queries](https://drive.google.com/file/d/1NUf9n6P2WgA3JuGrx97ypSCU87QbRzBd/view?usp=sharing)
+
 **Global Situation**
 
 -   In 1990, the world's forest area was 41,282,694.9 sqkm, which decreased to 39,958,245.9 sqkm in 2016, a loss of 1,324,449 sqkm (3.21%).
