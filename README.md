@@ -1,5 +1,7 @@
 ﻿# ForestQuery Data Analysis Report
 
+![tree logo](https://github.com/TheoDorokhoff/deforestation-exploration/assets/144614675/5629ed7a-6744-49cf-bc4c-3f967b6bd944)
+
 **Introduction**  
 ForestQuery is dedicated to addressing deforestation globally and raising awareness about its environmental impact. This report analyzes data obtained from the World Bank, including forest and land area by country from 1990 to 2016, along with country regions. The analysis identifies areas of concern and success stories.
 
